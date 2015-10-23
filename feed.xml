@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>urn:iweb:234440E0-C2C8-478B-BB3C-17F3C92EC438</id><title>Page list Atom feed</title><updated>2015-10-22T23:04:03-07:00</updated><link rel="self" href="feed.xml"/><generator>iWeb</generator><author><name>iWeb</name></author><entry><id>urn:iweb:848C5583-6EE0-463E-A3E3-57BAE01B709F</id><title>JM Budke</title><title xmlns="urn:iweb:">JM Budke</title><in-navbar xmlns="urn:iweb:">848C5583-6EE0-463E-A3E3-57BAE01B709F</in-navbar><link rel="alternate" href="JM_Budke.html"/><updated>2015-10-22T23:04:03.001-07:00</updated><content>JM Budke</content></entry><entry><id>urn:iweb:6B3BCA97-B698-41CC-B8CB-4F789543E2A6</id><title>Research</title><title xmlns="urn:iweb:">Research</title><in-navbar xmlns="urn:iweb:">6B3BCA97-B698-41CC-B8CB-4F789543E2A6</in-navbar><link rel="alternate" href="Research.html"/><updated>2015-10-22T23:04:03.002-07:00</updated><content>Research</content></entry><entry><id>urn:iweb:4638E00A-D4DB-4E4D-A924-DD488FC532A8</id><title>Publications</title><title xmlns="urn:iweb:">Publications</title><in-navbar xmlns="urn:iweb:">4638E00A-D4DB-4E4D-A924-DD488FC532A8</in-navbar><link rel="alternate" href="Publications.html"/><updated>2015-10-22T23:04:03.003-07:00</updated><content>Publications</content></entry><entry><id>urn:iweb:8011D7DB-2ECA-48E0-8A39-D1CD87241C0B</id><title>Teaching</title><title xmlns="urn:iweb:">Teaching</title><in-navbar xmlns="urn:iweb:">8011D7DB-2ECA-48E0-8A39-D1CD87241C0B</in-navbar><link rel="alternate" href="Teaching.html"/><updated>2015-10-22T23:04:03.004-07:00</updated><content>Teaching</content></entry><entry><id>urn:iweb:675F5AC0-9907-4F9D-A54D-CDC07A94FFF1</id><title>Outreach</title><title xmlns="urn:iweb:">Outreach</title><in-navbar xmlns="urn:iweb:">675F5AC0-9907-4F9D-A54D-CDC07A94FFF1</in-navbar><link rel="alternate" href="Outreach.html"/><updated>2015-10-22T23:04:03.005-07:00</updated><content>Outreach</content></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:234440E0-C2C8-478B-BB3C-17F3C92EC438</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-10-23T00:36:37-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:848C5583-6EE0-463E-A3E3-57BAE01B709F</id>
+  <title>JM Budke</title>
+  <title xmlns="urn:iweb:">JM Budke</title>
+  <in-navbar xmlns="urn:iweb:">848C5583-6EE0-463E-A3E3-57BAE01B709F</in-navbar>
+  <link rel="alternate" href="JM_Budke.html"/>
+  <updated>2015-10-23T00:36:37.001-07:00</updated>
+  <content>JM Budke</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6B3BCA97-B698-41CC-B8CB-4F789543E2A6</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">6B3BCA97-B698-41CC-B8CB-4F789543E2A6</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2015-10-23T00:36:37.002-07:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4638E00A-D4DB-4E4D-A924-DD488FC532A8</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">4638E00A-D4DB-4E4D-A924-DD488FC532A8</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2015-10-23T00:36:37.003-07:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8011D7DB-2ECA-48E0-8A39-D1CD87241C0B</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">8011D7DB-2ECA-48E0-8A39-D1CD87241C0B</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2015-10-23T00:36:37.004-07:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:675F5AC0-9907-4F9D-A54D-CDC07A94FFF1</id>
+  <title>Outreach</title>
+  <title xmlns="urn:iweb:">Outreach</title>
+  <in-navbar xmlns="urn:iweb:">675F5AC0-9907-4F9D-A54D-CDC07A94FFF1</in-navbar>
+  <link rel="alternate" href="Outreach.html"/>
+  <updated>2015-10-23T00:36:37.005-07:00</updated>
+  <content>Outreach</content>
+ </entry>
+</feed>

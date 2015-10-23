@@ -2,12 +2,13 @@
     padding: 4px;
 }
 .paragraph_style {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 24px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 29px;
     margin-bottom: 0px;
@@ -26,12 +27,13 @@
     padding: 0px;
 }
 .paragraph_style_1 {
-    color: #463c3c;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri';
     font-size: 15px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 22px;
     margin-bottom: 0px;
@@ -47,19 +49,23 @@
     text-transform: none;
 }
 .style_2 {
-    color: #000000;
+    color: rgb(0, 0, 0);
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 14px;
-    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
     line-height: 20px;
     opacity: 1.00;
 }
 .paragraph_style_2 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 20px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 29px;
     margin-bottom: 0px;
@@ -75,25 +81,37 @@
     text-transform: none;
 }
 .style_3 {
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'Calibri';
-    font-weight: bold;
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
 }
 .style_4 {
-    font-family: 'Calibri-BoldItalic', 'Calibri', 'Calibri Bold Italic', 'Calibri';
+    font-family: 'Calibri-BoldItalic', 'Calibri';
+    font-size: 20px;
+    font-stretch: normal;
     font-style: italic;
-    font-weight: bold;
+    font-weight: 700;
+    line-height: 29px;
 }
 .style_5 {
-    font-family: 'Calibri-Italic', 'Calibri', 'Calibri Italic', 'Calibri';
+    font-family: 'Calibri-Italic', 'Calibri';
+    font-size: 20px;
+    font-stretch: normal;
     font-style: italic;
+    font-weight: 400;
+    line-height: 29px;
 }
 .paragraph_style_3 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -109,16 +127,21 @@
     text-transform: none;
 }
 .style_6 {
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 23px;
 }
 .paragraph_style_4 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 3px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 5px;
     margin-bottom: 0px;
@@ -134,22 +157,29 @@
     text-transform: none;
 }
 .style_7 {
+    font-family: 'Calibri';
     font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 22px;
 }
 .style_8 {
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'Calibri';
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 15px;
-    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
     line-height: 22px;
 }
 .paragraph_style_5 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -165,18 +195,21 @@
     text-transform: none;
 }
 .style_9 {
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'Calibri';
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 20px;
-    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
     line-height: 29px;
 }
 .paragraph_style_6 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -192,12 +225,13 @@
     text-transform: none;
 }
 .paragraph_style_7 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -213,12 +247,13 @@
     text-transform: none;
 }
 .paragraph_style_8 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -234,22 +269,29 @@
     text-transform: none;
 }
 .style_10 {
+    font-family: 'Calibri';
     font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 29px;
 }
 .style_11 {
-    font-family: 'Calibri-Italic', 'Calibri', 'Calibri Italic', 'Calibri';
+    font-family: 'Calibri-Italic', 'Calibri';
     font-size: 18px;
+    font-stretch: normal;
     font-style: italic;
+    font-weight: 400;
     line-height: 26px;
 }
 .paragraph_style_9 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -265,12 +307,13 @@
     text-transform: none;
 }
 .paragraph_style_10 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -286,12 +329,13 @@
     text-transform: none;
 }
 .paragraph_style_11 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -307,12 +351,13 @@
     text-transform: none;
 }
 .paragraph_style_12 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -328,12 +373,13 @@
     text-transform: none;
 }
 .paragraph_style_13 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -349,19 +395,21 @@
     text-transform: none;
 }
 .style_12 {
-    font-family: 'Calibri-BoldItalic', 'Calibri', 'Calibri Bold Italic', 'Calibri';
+    font-family: 'Calibri-BoldItalic', 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: italic;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 23px;
 }
 .paragraph_style_14 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -377,38 +425,55 @@
     text-transform: none;
 }
 .style_13 {
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'Calibri';
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
-    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
     line-height: 23px;
 }
 .style_14 {
-    font-family: 'Calibri-Italic', 'Calibri', 'Calibri Italic', 'Calibri';
+    font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: italic;
+    font-weight: 400;
     line-height: 23px;
 }
 .style_15 {
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 23px;
 }
 .style_16 {
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 23px;
     text-decoration: underline;
 }
 .style_17 {
+    font-family: 'Calibri';
     font-size: 11px;
-    line-height: 16px;
-    vertical-align: 0.50em;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    vertical-align: 5px;
 }
 .paragraph_style_15 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 15px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 22px;
     margin-bottom: 0px;
@@ -424,12 +489,13 @@
     text-transform: none;
 }
 .paragraph_style_16 {
-    color: #463c3c;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri';
     font-size: 15px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 22px;
     margin-bottom: 0px;
@@ -445,17 +511,23 @@
     text-transform: none;
 }
 .style_18 {
-    color: #333333;
-    font-weight: bold;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
     opacity: 1.00;
 }
 .paragraph_style_17 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -471,20 +543,29 @@
     text-transform: none;
 }
 .style_19 {
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 20px;
-    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
     line-height: 29px;
 }
 .style_20 {
-    font-weight: bold;
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
 }
 .paragraph_style_18 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -500,12 +581,13 @@
     text-transform: none;
 }
 .paragraph_style_19 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -521,16 +603,18 @@
     text-transform: none;
 }
 .style_21 {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
+    line-height: 23px;
     opacity: 1.00;
 }
 .paragraph_style_20 {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -546,22 +630,29 @@
     text-transform: none;
 }
 .style_22 {
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 23px;
 }
 .style_23 {
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    font-family: 'Calibri';
     font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 16px;
 }
 .paragraph_style_21 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -577,12 +668,13 @@
     text-transform: none;
 }
 .paragraph_style_22 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -598,12 +690,13 @@
     text-transform: none;
 }
 .paragraph_style_23 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -619,12 +712,13 @@
     text-transform: none;
 }
 .paragraph_style_24 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -640,12 +734,13 @@
     text-transform: none;
 }
 .paragraph_style_25 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -661,12 +756,13 @@
     text-transform: none;
 }
 .paragraph_style_26 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -682,12 +778,13 @@
     text-transform: none;
 }
 .paragraph_style_27 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -703,12 +800,13 @@
     text-transform: none;
 }
 .paragraph_style_28 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 16px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -724,12 +822,13 @@
     text-transform: none;
 }
 .paragraph_style_29 {
-    color: #333333;
-    font-family: 'Calibri', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
@@ -745,12 +844,13 @@
     text-transform: none;
 }
 .paragraph_style_30 {
-    color: #333333;
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 28px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 39px;
     margin-bottom: 0px;
@@ -769,12 +869,13 @@
     position: relative;
 }
 .paragraph_style_31 {
-    color: #463c3c;
-    font-family: 'Calibri-Bold', 'Calibri', 'Calibri Bold', 'ArialMT', 'Arial', sans-serif;
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 14px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
@@ -808,12 +909,13 @@
     position: relative;
 }
 .Free_Form {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -829,12 +931,13 @@
     text-transform: none;
 }
 .Header {
-    color: #969696;
-    font-family: 'ArialMT', 'Arial', sans-serif;
+    color: rgb(167, 167, 167);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 36px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 42px;
     margin-bottom: 0px;
@@ -862,12 +965,13 @@
     padding: 4px;
 }
 .Title {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 20px;
+    font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 25px;
     margin-bottom: 0px;
@@ -901,11 +1005,11 @@
     padding: 4px;
 }
 a {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 a:visited {
-    color: #666666;
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 a.class1 {
@@ -915,7 +1019,7 @@ a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
-    color: #000000;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class2 {
@@ -925,7 +1029,7 @@ a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
-    color: #000000;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class3 {
@@ -935,30 +1039,42 @@ a.class3:visited {
     text-decoration: none;
 }
 a.class3:hover {
-    color: #000000;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a:hover {
-    color: #000000;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
+#widget1 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
 }
 #widget0 a:hover {
-    color: #000000;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget1 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: #666666;
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget0 a {
-    color: #463c3c;
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 .spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }
@@ -981,6 +1097,9 @@ img {
     display: inline-block;
     vertical-align: baseline;
     margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
 }
 .vertical-align-middle-middlebox {
     display: table;
