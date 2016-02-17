@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20160209
+// Created by iWeb 3.0.4 local-build-20160217
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWEmptyStroke(),stroke_0:new IWEmptyStroke()});registry.applyEffects();}
