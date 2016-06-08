@@ -182,28 +182,6 @@
     font-weight: 400;
     line-height: 19px;
 }
-.paragraph_style_5 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
-    margin-left: 72px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 8px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -54px;
-    text-transform: none;
-}
 .style_9 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
@@ -236,10 +214,6 @@
     font-weight: 700;
     line-height: 19px;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_13 {
     font-family: 'Calibri';
     font-size: 16px;
@@ -247,6 +221,10 @@
     font-style: normal;
     font-weight: 400;
     line-height: 19px;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_14 {
     font-family: 'Calibri-Bold', 'Calibri';
@@ -280,7 +258,7 @@
     font-weight: 400;
     line-height: 19px;
 }
-.paragraph_style_6 {
+.paragraph_style_5 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -302,7 +280,7 @@
     text-indent: -54px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_6 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -324,10 +302,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_External_652_1513 {
-    position: relative;
-}
-.paragraph_style_8 {
+.paragraph_style_7 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -349,6 +324,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_652_1513 {
+    position: relative;
+}
 .style_18 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 18px;
@@ -356,6 +334,28 @@
     font-style: normal;
     font-weight: 700;
     line-height: 22px;
+}
+.paragraph_style_8 {
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 72px;
+    margin-right: 36px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -54px;
+    text-transform: none;
 }
 .style_19 {
     color: rgb(45, 45, 45);
