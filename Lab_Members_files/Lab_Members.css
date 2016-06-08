@@ -23,120 +23,24 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-family: 'Calibri-Italic', 'Calibri';
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 29px;
+}
 .paragraph_style_1 {
     color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 24px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
-    font-weight: 700;
-    line-height: 24px;
-}
-.style_2 {
-    font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 24px;
-}
-.paragraph_style_2 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
     font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 24px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_3 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 26px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_4 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 26px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -149,7 +53,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_6 {
+.paragraph_style_2 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 18px;
@@ -158,7 +62,7 @@
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 26px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -166,12 +70,12 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: justify;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_3 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 12px;
@@ -193,7 +97,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_2 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 14px;
     font-stretch: normal;
@@ -201,7 +105,48 @@
     font-weight: 700;
     line-height: 17px;
 }
-.paragraph_style_8 {
+.paragraph_style_4 {
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_3 {
+    font-family: 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.style_External_590_402 {
+    position: relative;
+}
+.style_4 {
+    font-family: 'Calibri-Italic', 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 26px;
+}
+.paragraph_style_5 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 18px;
@@ -218,7 +163,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -231,9 +176,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_362_138 {
-    position: relative;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -242,7 +184,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_437_308 {
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_405_165 {
     position: relative;
 }
 .style_External_699_66 {
@@ -272,14 +218,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.Bold {
-    font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 24px;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -334,22 +272,22 @@
 .Normal_External_362_52 {
     position: relative;
 }
-.Normal_External_362_138 {
+.Normal_External_405_165 {
     position: relative;
 }
-.Normal_External_437_308 {
+.Normal_External_590_402 {
     position: relative;
 }
-.Sidebar_Body {
+.Title {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 25px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -370,17 +308,24 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_604_39 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_338_36 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_265_249 {
+.graphic_textbox_layout_style_default_External_227_41 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -392,14 +337,13 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1:hover {
@@ -414,6 +358,17 @@ a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class3 {
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class3:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
@@ -434,7 +389,7 @@ a:hover {
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 #widget0 a {
@@ -442,7 +397,7 @@ a:hover {
     text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 .spacer {
