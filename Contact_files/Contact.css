@@ -293,16 +293,27 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1 {
+    color: rgb(88, 77, 77);
     text-decoration: none;
 }
 a.class1:visited {
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class2 {
+    text-decoration: none;
+}
+a.class2:visited {
+    text-decoration: none;
+}
+a.class2:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
@@ -323,7 +334,7 @@ a:hover {
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 #widget0 a {
@@ -331,7 +342,7 @@ a:hover {
     text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 .spacer {

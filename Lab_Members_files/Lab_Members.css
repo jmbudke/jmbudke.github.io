@@ -146,28 +146,6 @@
     font-weight: 400;
     line-height: 26px;
 }
-.paragraph_style_5 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 26px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -181,10 +159,6 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
@@ -322,29 +296,19 @@
 .graphic_shape_layout_style_default_External_604_39 {
     position: relative;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_227_41 {
-    position: relative;
-}
-.graphic_textbox_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 a {
     color: rgb(88, 77, 77);
     text-decoration: none;
 }
 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class1:hover {
     color: rgb(0, 0, 0);
@@ -365,7 +329,7 @@ a.class3 {
     text-decoration: none;
 }
 a.class3:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class3:hover {
@@ -389,7 +353,7 @@ a:hover {
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 #widget0 a {
@@ -397,7 +361,7 @@ a:hover {
     text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 .spacer {

@@ -535,10 +535,20 @@
 }
 a {
     color: rgb(88, 77, 77);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+a.class1 {
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(66, 66, 66);
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a:hover {
@@ -547,7 +557,7 @@ a:hover {
 }
 #widget1 a {
     color: rgb(88, 77, 77);
-    text-decoration: underline;
+    text-decoration: none;
 }
 #widget0 a:hover {
     color: rgb(0, 0, 0);
@@ -558,16 +568,16 @@ a:hover {
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    color: rgb(66, 66, 66);
+    text-decoration: none;
 }
 #widget0 a {
     color: rgb(88, 77, 77);
-    text-decoration: underline;
+    text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    color: rgb(66, 66, 66);
+    text-decoration: none;
 }
 .spacer {
     font-size: 1px;
