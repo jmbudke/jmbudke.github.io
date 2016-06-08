@@ -205,19 +205,19 @@
     text-transform: none;
 }
 .style_9 {
-    font-family: 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 19px;
-}
-.style_10 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
+    line-height: 19px;
+}
+.style_10 {
+    font-family: 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
     line-height: 19px;
 }
 .style_11 {
