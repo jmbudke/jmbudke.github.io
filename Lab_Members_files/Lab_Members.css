@@ -152,9 +152,6 @@
 .style_External_405_217 {
     position: relative;
 }
-.style_External_590_402 {
-    position: relative;
-}
 .style_3 {
     font-family: 'Calibri';
     font-size: 18px;
@@ -186,6 +183,9 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_590_429 {
+    position: relative;
 }
 .style_External_699_66 {
     position: relative;
@@ -268,10 +268,10 @@
 .Normal_External_362_52 {
     position: relative;
 }
-.Normal_External_405_217 {
+.Normal_External_590_429 {
     position: relative;
 }
-.Normal_External_590_402 {
+.Normal_External_405_217 {
     position: relative;
 }
 .Title {
