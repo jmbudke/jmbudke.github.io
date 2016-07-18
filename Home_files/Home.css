@@ -97,6 +97,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_654_785 {
+    position: relative;
+}
 .paragraph_style_4 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri-Bold', 'Calibri';
@@ -134,9 +137,6 @@
     font-style: italic;
     font-weight: 400;
     line-height: 26px;
-}
-.style_External_654_627 {
-    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
@@ -254,7 +254,7 @@
 .Normal_External_699_66 {
     position: relative;
 }
-.Normal_External_654_627 {
+.Normal_External_654_785 {
     position: relative;
 }
 .Normal_External_362_52 {
