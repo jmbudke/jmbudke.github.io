@@ -89,6 +89,28 @@
 .paragraph_style_3 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 29px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
@@ -108,7 +130,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 18px;
@@ -130,7 +152,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 12px;
@@ -160,7 +182,10 @@
     font-weight: 700;
     line-height: 17px;
 }
-.paragraph_style_6 {
+.style_External_405_217 {
+    position: relative;
+}
+.paragraph_style_7 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 24px;
@@ -182,9 +207,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_405_217 {
-    position: relative;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -201,7 +223,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_640_561 {
+.style_External_640_594 {
     position: relative;
 }
 .style_External_362_52 {
@@ -279,7 +301,7 @@
 .Normal_External_362_52 {
     position: relative;
 }
-.Normal_External_640_561 {
+.Normal_External_640_594 {
     position: relative;
 }
 .Normal_External_699_70 {
