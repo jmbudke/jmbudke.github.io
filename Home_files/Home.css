@@ -144,9 +144,6 @@
     font-weight: 400;
     line-height: 26px;
 }
-.style_External_654_389 {
-    position: relative;
-}
 .style_2 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 18px;
@@ -218,6 +215,9 @@
 .style_External_362_52 {
     position: relative;
 }
+.style_External_654_442 {
+    position: relative;
+}
 .Body {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -287,10 +287,10 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_699_70 {
+.Normal_External_654_442 {
     position: relative;
 }
-.Normal_External_654_389 {
+.Normal_External_699_70 {
     position: relative;
 }
 .Normal_External_362_52 {
