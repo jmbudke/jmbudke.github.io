@@ -236,6 +236,9 @@
 .style_External_640_112 {
     position: relative;
 }
+.style_External_405_229 {
+    position: relative;
+}
 .style_External_362_52 {
     position: relative;
 }
@@ -312,6 +315,9 @@
     padding: 4px;
 }
 .Normal_External_362_52 {
+    position: relative;
+}
+.Normal_External_405_229 {
     position: relative;
 }
 .Normal_External_699_70 {
@@ -422,6 +428,16 @@ a.class4:visited {
     color: rgb(66, 66, 66);
 }
 a.class4:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class5 {
+    text-decoration: none;
+}
+a.class5:visited {
+    color: rgb(66, 66, 66);
+}
+a.class5:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
