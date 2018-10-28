@@ -89,6 +89,14 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
 .paragraph_style_4 {
     color: rgb(61, 166, 0);
     font-family: 'Calibri-Bold', 'Calibri';
@@ -111,7 +119,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style_2 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 22px;
     font-stretch: normal;
@@ -119,7 +127,7 @@
     font-weight: 700;
     line-height: 30px;
 }
-.style_2 {
+.style_3 {
     font-family: 'Calibri';
     font-size: 22px;
     font-stretch: normal;
@@ -127,7 +135,7 @@
     font-weight: 400;
     line-height: 30px;
 }
-.style_3 {
+.style_4 {
     font-family: 'Calibri';
     font-size: 20px;
     font-stretch: normal;
@@ -204,7 +212,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_4 {
+.style_5 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 15px;
     font-stretch: normal;
@@ -256,21 +264,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_5 {
+.style_6 {
     font-family: 'Calibri-BoldItalic', 'Calibri';
     font-size: 18px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
     line-height: 25px;
-}
-.style_6 {
-    font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
 }
 .paragraph_style_10 {
     color: rgb(66, 66, 66);
@@ -382,9 +382,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_411_244 {
-    position: relative;
-}
 .paragraph_style_15 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
@@ -406,6 +403,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_411_244 {
+    position: relative;
 }
 .style_7 {
     font-family: 'Calibri';
@@ -481,9 +481,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_303_266 {
-    position: relative;
-}
 .style_External_360_291 {
     position: relative;
 }
@@ -519,6 +516,9 @@
     position: relative;
 }
 .style_External_699_70 {
+    position: relative;
+}
+.style_External_303_288 {
     position: relative;
 }
 .Body {
@@ -587,9 +587,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal_External_303_266 {
-    position: relative;
-}
 .Normal_External_360_291 {
     position: relative;
 }
@@ -597,6 +594,9 @@
     position: relative;
 }
 .Normal_External_411_244 {
+    position: relative;
+}
+.Normal_External_303_288 {
     position: relative;
 }
 .Normal_External_375_69 {
