@@ -204,6 +204,19 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_4 {
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+.style_5 {
+    color: rgb(88, 77, 77);
+    line-height: 26px;
+    opacity: 1.00;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -224,6 +237,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_405_244 {
+    position: relative;
+}
 .style_External_405_165 {
     position: relative;
 }
@@ -236,13 +252,7 @@
 .style_External_640_112 {
     position: relative;
 }
-.style_External_405_229 {
-    position: relative;
-}
 .style_External_362_52 {
-    position: relative;
-}
-.style_External_405_297 {
     position: relative;
 }
 .Body {
@@ -317,16 +327,13 @@
 .Normal_External_362_52 {
     position: relative;
 }
-.Normal_External_405_229 {
-    position: relative;
-}
 .Normal_External_699_70 {
     position: relative;
 }
-.Normal_External_405_165 {
+.Normal_External_405_244 {
     position: relative;
 }
-.Normal_External_405_297 {
+.Normal_External_405_165 {
     position: relative;
 }
 .Normal_External_405_270 {
