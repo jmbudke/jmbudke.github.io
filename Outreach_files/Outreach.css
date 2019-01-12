@@ -274,28 +274,6 @@
 }
 .paragraph_style_10 {
     color: rgb(66, 66, 66);
-    font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 26px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_11 {
-    color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 22px;
     font-stretch: normal;
@@ -316,7 +294,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_12 {
+.paragraph_style_11 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -338,7 +316,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_13 {
+.paragraph_style_12 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -360,7 +338,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_14 {
+.paragraph_style_13 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -382,7 +360,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_15 {
+.paragraph_style_14 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 22px;
@@ -404,8 +382,38 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_15 {
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_External_411_244 {
     position: relative;
+}
+.style_7 {
+    font-family: 'Calibri';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
 }
 .paragraph_style_16 {
     color: rgb(88, 77, 77);
@@ -429,14 +437,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_7 {
-    font-family: 'Calibri';
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 17px;
-}
 .paragraph_style_17 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
@@ -446,15 +446,15 @@
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 21px;
     margin-bottom: 0px;
     margin-left: 0px;
-    margin-right: 0px;
+    margin-right: 36px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     padding-top: 0px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -482,23 +482,23 @@
     text-transform: none;
 }
 .paragraph_style_19 {
-    color: rgb(88, 77, 77);
-    font-family: 'Calibri';
-    font-size: 15px;
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
-    line-height: 21px;
+    line-height: 26px;
     margin-bottom: 0px;
     margin-left: 0px;
-    margin-right: 36px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     padding-top: 0px;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -698,16 +698,19 @@
 .graphic_textbox_layout_style_default_External_206_59 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_556_59 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_675_44 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_364_212 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_236_59 {
+.graphic_textbox_layout_style_default_External_429_463 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_429_463 {
+.graphic_textbox_layout_style_default_External_236_59 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_370_93 {
@@ -720,6 +723,9 @@
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_183_45 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_656_85 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
