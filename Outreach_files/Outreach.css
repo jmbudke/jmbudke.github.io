@@ -481,6 +481,28 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_19 {
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_External_360_291 {
     position: relative;
 }
@@ -670,6 +692,15 @@
 .graphic_textbox_layout_style_default_External_227_31 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_206_59 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_556_59 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_675_44 {
     position: relative;
 }
@@ -679,13 +710,22 @@
 .graphic_textbox_layout_style_default_External_429_463 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_236_59 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_370_93 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_191_59 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_183_45 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_656_85 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
