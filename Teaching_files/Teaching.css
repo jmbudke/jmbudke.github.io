@@ -89,37 +89,15 @@
     font-weight: 400;
     line-height: 29px;
 }
-.paragraph_style_3 {
-    color: rgb(66, 66, 66);
-    font-family: 'Calibri-Italic', 'Calibri';
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 54px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -18px;
-    text-transform: none;
-}
 .style_4 {
-    font-family: 'Calibri-Italic', 'Calibri';
+    font-family: 'Calibri';
     font-size: 16px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-weight: 400;
     line-height: 23px;
 }
-.paragraph_style_4 {
+.paragraph_style_3 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 14px;
@@ -157,7 +135,7 @@
     font-weight: 400;
     line-height: 29px;
 }
-.paragraph_style_5 {
+.paragraph_style_4 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 3px;
@@ -187,9 +165,6 @@
     font-weight: 400;
     line-height: 22px;
 }
-.style_External_651_813 {
-    position: relative;
-}
 .style_8 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 15px;
@@ -198,7 +173,7 @@
     font-weight: 700;
     line-height: 22px;
 }
-.paragraph_style_6 {
+.paragraph_style_5 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 14px;
@@ -228,10 +203,6 @@
     font-weight: 700;
     line-height: 29px;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_10 {
     font-family: 'Calibri-BoldItalic', 'Calibri';
     font-size: 16px;
@@ -240,7 +211,11 @@
     font-weight: 700;
     line-height: 23px;
 }
-.paragraph_style_7 {
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_6 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 14px;
@@ -312,7 +287,7 @@
     line-height: 23px;
     vertical-align: 5px;
 }
-.paragraph_style_8 {
+.paragraph_style_7 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 15px;
@@ -334,7 +309,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_9 {
+.paragraph_style_8 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -366,7 +341,7 @@
     line-height: 22px;
     opacity: 1.00;
 }
-.paragraph_style_10 {
+.paragraph_style_9 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 14px;
@@ -403,7 +378,7 @@
 .style_External_357_76 {
     position: relative;
 }
-.paragraph_style_11 {
+.paragraph_style_10 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 14px;
@@ -424,6 +399,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_651_819 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -472,13 +450,13 @@
 .Normal {
     padding: 4px;
 }
+.Normal_External_651_819 {
+    position: relative;
+}
 .Normal_External_357_76 {
     position: relative;
 }
 .Normal_External_699_70 {
-    position: relative;
-}
-.Normal_External_651_813 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {

@@ -138,6 +138,9 @@
     font-weight: 700;
     line-height: 19px;
 }
+.style_External_652_1921 {
+    position: relative;
+}
 .paragraph_style_5 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
@@ -193,6 +196,14 @@
     line-height: 19px;
 }
 .style_8 {
+    font-family: 'Calibri-BoldItalic', 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 19px;
+}
+.style_9 {
     font-family: 'Calibri';
     font-size: 11px;
     font-stretch: normal;
@@ -201,7 +212,11 @@
     line-height: 19px;
     vertical-align: 5px;
 }
-.style_9 {
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_10 {
     font-family: 'Calibri-BoldItalic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -209,7 +224,7 @@
     font-weight: 700;
     line-height: 19px;
 }
-.style_10 {
+.style_11 {
     font-family: 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -217,11 +232,7 @@
     font-weight: 400;
     line-height: 19px;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_11 {
+.style_12 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -229,20 +240,12 @@
     font-weight: 700;
     line-height: 19px;
 }
-.style_12 {
+.style_13 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
-    line-height: 19px;
-}
-.style_13 {
-    font-family: 'Calibri-BoldItalic', 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 700;
     line-height: 19px;
 }
 .paragraph_style_6 {
@@ -319,6 +322,11 @@
     text-indent: -54px;
     text-transform: none;
 }
+.style_15 {
+    color: rgb(0, 0, 0);
+    line-height: 19px;
+    opacity: 1.00;
+}
 .paragraph_style_9 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
@@ -341,7 +349,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_15 {
+.style_16 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 11px;
     font-stretch: normal;
@@ -350,7 +358,7 @@
     line-height: 19px;
     vertical-align: 5px;
 }
-.style_16 {
+.style_17 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 11px;
     font-stretch: normal;
@@ -386,9 +394,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_652_1940 {
-    position: relative;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -437,7 +442,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_652_1940 {
+.Normal_External_652_1921 {
     position: relative;
 }
 .Normal_External_362_76 {

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Created by iWeb 3.0.4 local-build-20190125
-=======
-// Created by iWeb 3.0.4 local-build-20190111
->>>>>>> origin/master
+// Created by iWeb 3.0.4 local-build-20190502
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke()});registry.applyEffects();}
