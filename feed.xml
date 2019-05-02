@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:234440E0-C2C8-478B-BB3C-17F3C92EC438</id>
  <title>Page list Atom feed</title>
- <updated>2019-01-11T23:01:08-05:00</updated>
+ <updated>2019-05-02T13:33:56-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,17 +14,17 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">848C5583-6EE0-463E-A3E3-57BAE01B709F</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2019-01-11T23:01:08.001-05:00</updated>
+  <updated>2019-05-02T13:33:56.001-04:00</updated>
   <content>Home</content>
  </entry>
  <entry>
   <id>urn:iweb:64DE2A06-0A66-4CE4-A6FC-5ED8BD08BF20</id>
-  <title>Team</title>
-  <title xmlns="urn:iweb:">Team</title>
+  <title>People</title>
+  <title xmlns="urn:iweb:">People</title>
   <in-navbar xmlns="urn:iweb:">64DE2A06-0A66-4CE4-A6FC-5ED8BD08BF20</in-navbar>
-  <link rel="alternate" href="Team.html"/>
-  <updated>2019-01-11T23:01:08.002-05:00</updated>
-  <content>Team</content>
+  <link rel="alternate" href="People.html"/>
+  <updated>2019-05-02T13:33:56.002-04:00</updated>
+  <content>People</content>
  </entry>
  <entry>
   <id>urn:iweb:6B3BCA97-B698-41CC-B8CB-4F789543E2A6</id>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Research</title>
   <in-navbar xmlns="urn:iweb:">6B3BCA97-B698-41CC-B8CB-4F789543E2A6</in-navbar>
   <link rel="alternate" href="Research.html"/>
-  <updated>2019-01-11T23:01:08.003-05:00</updated>
+  <updated>2019-05-02T13:33:56.003-04:00</updated>
   <content>Research</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">4638E00A-D4DB-4E4D-A924-DD488FC532A8</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2019-01-11T23:01:08.004-05:00</updated>
+  <updated>2019-05-02T13:33:56.004-04:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Teaching</title>
   <in-navbar xmlns="urn:iweb:">8011D7DB-2ECA-48E0-8A39-D1CD87241C0B</in-navbar>
   <link rel="alternate" href="Teaching.html"/>
-  <updated>2019-01-11T23:01:08.005-05:00</updated>
+  <updated>2019-05-02T13:33:56.005-04:00</updated>
   <content>Teaching</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">Outreach</title>
   <in-navbar xmlns="urn:iweb:">675F5AC0-9907-4F9D-A54D-CDC07A94FFF1</in-navbar>
   <link rel="alternate" href="Outreach.html"/>
-  <updated>2019-01-11T23:01:08.006-05:00</updated>
+  <updated>2019-05-02T13:33:56.006-04:00</updated>
   <content>Outreach</content>
  </entry>
  <entry>
@@ -68,7 +68,7 @@
   <title xmlns="urn:iweb:">Contact</title>
   <in-navbar xmlns="urn:iweb:">2EE8030E-AF3A-4BFD-9C12-C0E8DFACFAC9</in-navbar>
   <link rel="alternate" href="Contact.html"/>
-  <updated>2019-01-11T23:01:08.007-05:00</updated>
+  <updated>2019-05-02T13:33:56.007-04:00</updated>
   <content>Contact</content>
  </entry>
 </feed>
