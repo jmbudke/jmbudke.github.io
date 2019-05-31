@@ -141,6 +141,28 @@
     font-weight: 400;
     line-height: 21px;
 }
+.paragraph_style_5 {
+    color: rgb(88, 77, 77);
+    font-family: 'Calibri';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_5 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
@@ -149,7 +171,7 @@
     font-weight: 400;
     line-height: 21px;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -217,6 +239,14 @@
     font-weight: 400;
     line-height: 18px;
 }
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_11 {
     font-family: 'Calibri';
     font-size: 15px;
@@ -225,13 +255,8 @@
     font-weight: 400;
     line-height: 18px;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
+.style_External_362_76 {
+    position: relative;
 }
 .style_12 {
     font-family: 'Calibri-BoldItalic', 'Calibri';
@@ -241,10 +266,7 @@
     font-weight: 700;
     line-height: 18px;
 }
-.style_External_362_76 {
-    position: relative;
-}
-.paragraph_style_6 {
+.paragraph_style_7 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -300,7 +322,7 @@
     font-weight: 700;
     line-height: 18px;
 }
-.paragraph_style_7 {
+.paragraph_style_8 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -338,7 +360,7 @@
     font-weight: 400;
     line-height: 21px;
 }
-.paragraph_style_8 {
+.paragraph_style_9 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 16px;
@@ -360,7 +382,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_9 {
+.style_External_699_1228 {
+    position: relative;
+}
+.paragraph_style_10 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -406,7 +431,7 @@
     font-weight: 400;
     line-height: 14px;
 }
-.paragraph_style_10 {
+.paragraph_style_11 {
     color: rgb(88, 77, 77);
     font-family: 'Calibri';
     font-size: 15px;
@@ -443,9 +468,6 @@
     font-style: italic;
     font-weight: 700;
     line-height: 18px;
-}
-.style_External_699_1207 {
-    position: relative;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -500,7 +522,7 @@
 .Normal_External_699_70 {
     position: relative;
 }
-.Normal_External_699_1207 {
+.Normal_External_699_1228 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
