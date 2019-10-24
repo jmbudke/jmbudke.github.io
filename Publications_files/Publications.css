@@ -177,11 +177,11 @@
     line-height: 19px;
 }
 .style_6 {
-    font-family: 'Calibri-Italic', 'Calibri';
+    font-family: 'Calibri-BoldItalic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 19px;
 }
 .style_7 {
@@ -202,14 +202,6 @@
     vertical-align: 5px;
 }
 .style_9 {
-    font-family: 'Calibri-BoldItalic', 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 700;
-    line-height: 19px;
-}
-.style_10 {
     font-family: 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -217,12 +209,20 @@
     font-weight: 400;
     line-height: 19px;
 }
-.style_11 {
+.style_10 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
+    line-height: 19px;
+}
+.style_11 {
+    font-family: 'Calibri-Italic', 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
     line-height: 19px;
 }
 .style_SkipStroke {
@@ -312,9 +312,7 @@
     text-transform: none;
 }
 .style_14 {
-    color: rgb(0, 0, 0);
     line-height: 19px;
-    opacity: 1.00;
 }
 .paragraph_style_9 {
     color: rgb(66, 66, 66);
@@ -362,9 +360,6 @@
 .style_External_362_76 {
     position: relative;
 }
-.style_External_652_1902 {
-    position: relative;
-}
 .paragraph_style_10 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -386,6 +381,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_652_1929 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -434,7 +432,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_652_1902 {
+.Normal_External_652_1929 {
     position: relative;
 }
 .Normal_External_362_76 {
