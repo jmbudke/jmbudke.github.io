@@ -81,28 +81,6 @@
 .paragraph_style_3 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 13px;
-    margin-bottom: 0px;
-    margin-left: 54px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 6px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
-.paragraph_style_4 {
-    color: rgb(66, 66, 66);
-    font-family: 'Calibri-Bold', 'Calibri';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
@@ -122,12 +100,42 @@
     text-indent: -36px;
     text-transform: none;
 }
+.paragraph_style_4 {
+    color: rgb(66, 66, 66);
+    font-family: 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 36px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_2 {
-    font-family: 'Calibri-BoldItalic', 'Calibri';
+    font-family: 'Calibri-Bold', 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+.style_3 {
+    font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: italic;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 19px;
 }
 .paragraph_style_5 {
@@ -152,7 +160,7 @@
     text-indent: -54px;
     text-transform: none;
 }
-.style_3 {
+.style_4 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -160,7 +168,7 @@
     font-weight: 400;
     line-height: 19px;
 }
-.style_4 {
+.style_5 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -168,20 +176,12 @@
     font-weight: 700;
     line-height: 19px;
 }
-.style_5 {
+.style_6 {
     font-family: 'Calibri';
     font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
-    line-height: 19px;
-}
-.style_6 {
-    font-family: 'Calibri-BoldItalic', 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 700;
     line-height: 19px;
 }
 .style_7 {
@@ -194,6 +194,30 @@
 }
 .style_8 {
     font-family: 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.style_9 {
+    font-family: 'Calibri';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+.style_10 {
+    font-family: 'Calibri-BoldItalic', 'Calibri';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 19px;
+}
+.style_11 {
+    font-family: 'Calibri';
     font-size: 11px;
     font-stretch: normal;
     font-style: normal;
@@ -201,15 +225,11 @@
     line-height: 19px;
     vertical-align: 5px;
 }
-.style_9 {
-    font-family: 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 19px;
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
-.style_10 {
+.style_12 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -217,7 +237,7 @@
     font-weight: 700;
     line-height: 19px;
 }
-.style_11 {
+.style_13 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -225,11 +245,7 @@
     font-weight: 400;
     line-height: 19px;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_12 {
+.style_14 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 16px;
     font-stretch: normal;
@@ -270,36 +286,6 @@
     letter-spacing: 0;
     line-height: 19px;
     margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 8px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_13 {
-    font-family: 'Calibri-Bold', 'Calibri';
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 22px;
-}
-.paragraph_style_8 {
-    color: rgb(66, 66, 66);
-    font-family: 'Calibri';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
     margin-left: 72px;
     margin-right: 36px;
     margin-top: 0px;
@@ -311,10 +297,10 @@
     text-indent: -54px;
     text-transform: none;
 }
-.style_14 {
+.style_15 {
     line-height: 19px;
 }
-.paragraph_style_9 {
+.paragraph_style_8 {
     color: rgb(66, 66, 66);
     font-family: 'Calibri';
     font-size: 16px;
@@ -336,7 +322,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_15 {
+.style_16 {
     font-family: 'Calibri-Bold', 'Calibri';
     font-size: 11px;
     font-stretch: normal;
@@ -345,7 +331,7 @@
     line-height: 19px;
     vertical-align: 5px;
 }
-.style_16 {
+.style_17 {
     font-family: 'Calibri-Italic', 'Calibri';
     font-size: 11px;
     font-stretch: normal;
@@ -360,7 +346,7 @@
 .style_External_362_76 {
     position: relative;
 }
-.paragraph_style_10 {
+.paragraph_style_9 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 12px;
@@ -382,7 +368,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_652_1929 {
+.style_External_652_1962 {
     position: relative;
 }
 .Free_Form {
@@ -432,10 +418,10 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_652_1929 {
+.Normal_External_362_76 {
     position: relative;
 }
-.Normal_External_362_76 {
+.Normal_External_652_1962 {
     position: relative;
 }
 .Normal_External_699_70 {
