@@ -698,9 +698,6 @@
 .graphic_textbox_layout_style_default_External_206_59 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_556_59 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_675_44 {
     position: relative;
 }
@@ -721,6 +718,9 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_556_39 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_183_45 {
     position: relative;
